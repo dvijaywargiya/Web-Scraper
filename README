@@ -1,0 +1,8 @@
+These are two web scrapers for sites:
+
+q2com.py for: https://www.amazon.in/gp/bestsellers/books/
+
+q2in.py for: https://www.amazon.com/best-sellers-books-Amazon/zgbs/books/
+
+Extracting:
+Name of the book, URL, Author, Price and Rating
